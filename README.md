@@ -39,7 +39,7 @@ if JailBreakDetector.shared.canAddFileOnJailBreakDevice {
 ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You can use this code anywhere, you are free to modify 
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for suggestions and improvements.
