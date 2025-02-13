@@ -10,7 +10,7 @@ Jailbreak Detector is a lightweight Swift library that helps detect whether an i
 
 ### Swift Package Manager (SPM)
 1. Open Xcode and go to `File > Swift Packages > Add Package Dependency`.
-2. Enter the repository URL: `https://github.com/your-repo/JailbreakDetector.git`.
+2. Enter the repository URL: `https://github.com/Narendrapandey/JailBreakDetector.git`.
 3. Choose the latest version and add it to your project.
 
 ## Usage
